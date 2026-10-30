@@ -1,0 +1,9 @@
+# This repo only links the two app repos and documents how to run them.
+# Everything else in this folder (plans, designs, the film project, notes) stays local.
+/*
+!/.gitignore
+!/.gitmodules
+!/README.md
+!/LICENSE
+!/web
+!/backend

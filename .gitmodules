@@ -1,0 +1,8 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/Brian-Mwangi-developer/Cultural-X-ray-Web.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Brian-Mwangi-developer/Cultural-X-ray-Backend.git
+	branch = main
